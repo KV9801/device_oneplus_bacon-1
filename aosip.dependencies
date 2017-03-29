@@ -14,7 +14,7 @@
     "branch": "cm-14.1"
   },
   {
-    "remote":      "lineage",
+    "remote":      "laos",
     "repository":  "android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings",
     "branch":      "cm-14.1"
